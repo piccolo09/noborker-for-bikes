@@ -29,7 +29,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "djoser",
     "accounts",
-    "bike_info"
+    "bike_info",
 ]
 
 MIDDLEWARE = [
